@@ -51,3 +51,4 @@ Frontend:
 
 - [ ] Conclusion - Apolline
 		- Summarize the chosen project approach and technology stack, highlighting key reasons for the selections.
+
