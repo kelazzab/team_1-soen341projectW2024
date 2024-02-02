@@ -12,9 +12,9 @@ A car rental webapp is a software platform designed to facilitate the process of
 
 ### Team Members
 
-- Asma Aimade
+- Asma Aimade: asmaaimade0@gmail.com
 - Zineb Bamouh: zineb.bamouh@gmail.com
-- Mohamed Gueye
+- Mohamed Gueye: mohamed.gueye88@gmail.com
 - Apolline Leboucher
 - Beaudelaire Tsoungui Nzodoumkouo
 
