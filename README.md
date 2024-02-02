@@ -20,3 +20,9 @@ A car rental webapp is a software platform designed to facilitate the process of
 
 
 ### Technologies
+
+Front-end languages: HTML, CSS
+Back-end language: Javascript
+Front-end framework: Svelte
+Back-end framework: ExpressJs
+Database: MySQL
