@@ -16,13 +16,22 @@ A car rental webapp is a software platform designed to facilitate the process of
 - Zineb Bamouh: zineb.bamouh@gmail.com
 - Mohamed Gueye: mohamed.gueye88@gmail.com
 - Apolline Leboucher
-- Beaudelaire Tsoungui Nzodoumkouo
+- Beaudelaire Tsoungui Nzodoumkouo: beaudelaire@tutamail.com
 
 
 ### Technologies
 
-Front-end languages: HTML, CSS <br/>
-Back-end language: Javascript <br/>
-Front-end framework: Svelte <br/>
-Back-end framework: ExpressJs <br/>
-Database: MySQL
+#### Frontend
+- *Languages*: Javascript/Typescript
+- *UI Framework*: Svelte/SvelteKit
+- *CSS Framework*: Tailwind
+
+#### Backend
+- *Languages*: Javascript/Typescript
+- *Backend Framework*: NestJs
+- *Database*: MySQL
+
+#### API
+- RestAPI (Backend - Frontend communication)
+- Stripe  (Payment collection)
+- Auth0   (User Authentication)
