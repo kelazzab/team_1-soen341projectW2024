@@ -29,21 +29,21 @@
 			- Integration and Interoperability
 
 		Frontend:
- 			- Svelte - Beaudelaire
- 			- Angular - Zineb
- 			- Bootstrap - Mohamed
+ 			- Svelte: Beaudelaire
+ 			- Angular: Zineb
+ 			- Bootstrap: Mohamed
 
  		Backend
- 			- Express js - Asma
- 			- React - Apolline
- 			- Meteor - Apolline
+ 			- Express js: Asma
+ 			- React: Apolline
+ 			- Meteor: Apolline
 
 - [ ] **4. Integration and Interoperability - Beaudelaire**
 
     - [ ] Backend-Frontend Integration 
 		- Outline the strategy for integrating the chosen backend and frontend technologies.
 
-    - [ ] Third-Party Services -  
+    - [ ] Third-Party Services  
 		- Identify any third-party services or APIs that will be integrated into the project.
 
 - [ ] **5. Security Considerations - Asma**
