@@ -1,5 +1,4 @@
-
-- [ ] <h1> **1. Project Overview - Zineb**
+- [ ] **1. Project Overview - Zineb**
 
     - [ ] Project Objectives
 		- Clearly define the goals and objectives of the project.
@@ -8,7 +7,7 @@
     - [ ] Target Audience
 		- Identify the intended users and their needs.
 
-- [ ] **2. Project Approach - Momo**
+- [ ] **2. Project Approach - Mohamed**
     - [ ] Development Methodology
 		- Choose a development methodology (e.g., Agile, Waterfall) and justify the selection based on project requirements.
     - [ ] Project Timeline
@@ -29,17 +28,17 @@
 			- Use Cases
 			- Integration and Interoperability
 
-Frontend:
- - Svelte - Beaudelaire
- - Angular - Zineb
- - Bootstrap - Momo
+		Frontend:
+ 			- Svelte - Beaudelaire
+ 			- Angular - Zineb
+ 			- Bootstrap - Mohamed
 
- Backend
- - Express js - Asma
- - React - Apolline
- - Meteor - Apolline
+ 		Backend
+ 			- Express js - Asma
+ 			- React - Apolline
+ 			- Meteor - Apolline
 
-  - [ ] **4. Integration and Interoperability - Beaudelaire**
+- [ ] **4. Integration and Interoperability - Beaudelaire**
 
     - [ ] Backend-Frontend Integration 
 		- Outline the strategy for integrating the chosen backend and frontend technologies.
@@ -52,3 +51,4 @@ Frontend:
 
 - [ ] **6. Conclusion - Apolline**
 		- Summarize the chosen project approach and technology stack, highlighting key reasons for the selections.
+
