@@ -31,7 +31,7 @@
 Frontend:
  - Svelte - Beaudelaire
  - Angular - Zineb
- - Bootstrap - Momo
+ - Bootstrap - Mohamed
 
  Backend
  - Express js - Asma
