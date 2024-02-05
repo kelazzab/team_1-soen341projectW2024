@@ -15,8 +15,8 @@ A car rental webapp is a software platform designed to facilitate the process of
 - Asma Aimade
 - Zineb Bamouh
 - Mohamed Gueye
-- Apolline Leboucher
-- Beaudelaire Tsoungui Nzodoumkouo
+- Apolline Leboucher / apolline.leb@gmail.com
+- Beaudelaire Tsoungui Nzodoumkouo (Beaudelaire@tutamail.com)
 
 
 ### Technologies
