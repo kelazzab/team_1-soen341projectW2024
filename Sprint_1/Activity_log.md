@@ -7,7 +7,7 @@
     - [ ] Target Audience
 		- Identify the intended users and their needs.
 
-- [ ] Project Approach - Momo
+- [ ] Project Approach - Mohamed
     - [ ] Development Methodology
 		- Choose a development methodology (e.g., Agile, Waterfall) and justify the selection based on project requirements.
     - [ ] Project Timeline
