@@ -9,7 +9,7 @@
 
 - [ ] **2. Project Approach - Mohamed**
     - [ ] Development Methodology
-		- Choose a development methodology (e.g., Agile, Waterfall) and justify the selection based on project requirements.
+		- Choose a development methodology (e.g., Agile, Waterfall),Scrum and justify the selection based on project requirements.
     - [ ] Project Timeline
 		- Create a high-level timeline outlining major milestones and deadlines.
     - [ ] Collaboration and Communication
