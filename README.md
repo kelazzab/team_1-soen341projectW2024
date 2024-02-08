@@ -1,4 +1,4 @@
-# SOEN 341 Group Project: Team 1</h3>
+# SOEN 341 Group Project: Team 1
 
 ## Summary
 
