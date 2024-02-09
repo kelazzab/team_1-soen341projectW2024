@@ -163,7 +163,7 @@ Documentation of the features offered by our application! (see the project wiki)
 - Asma Aimade: asmaaimade0@gmail.com
 - Zineb Bamouh: zineb.bamouh@gmail.com
 - Mohamed Gueye: mohamed.gueye88@gmail.com
-- Apolline Leboucher
+- Apolline Leboucher: apolline.leb@gmail.com
 - Beaudelaire Tsoungui Nzodoumkouo: beaudelaire@tutamail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
