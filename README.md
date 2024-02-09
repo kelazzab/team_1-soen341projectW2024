@@ -109,15 +109,45 @@ This web application uses certain technologies and frameworks:
 <!-- Installation -->
 ## Installation
 
-Work In Progress
+Here's how to set up the application in your development environment
 
 ### Prerequisites
 
-Work In Progress
+[NodeJs](https://nodejs.org/en/download)
+
+After you install Node.js, verify NodeJs and NPM installation by writing the following command in terminal or command prompt.
+
+```
+node -v
+npm -v
+```
 
 ### Running
 
-Work In Progress
+1. Clone the repository
+```
+git clone https://github.com/apollinelbcr/team_1-soen341projectW2024.git
+cd team_1-soen341projectW2024
+```
+
+2. Install the frontend dependencies
+```
+cd frontend
+npm i
+```
+
+2. Install the backend dependecies
+
+Yet to be implemented
+
+3. Run the backend and frontend
+
+- backend
+  Yet to be implemented
+
+- frontend
+  Yet to be implemented
+  
 
 ### Extensions used
 
