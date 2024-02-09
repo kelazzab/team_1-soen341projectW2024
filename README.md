@@ -160,11 +160,12 @@ Documentation of the features offered by our application! (see the project wiki)
 
 ## Team Members
 
-- Asma Aimade: asmaaimade0@gmail.com
-- Zineb Bamouh: zineb.bamouh@gmail.com
-- Mohamed Gueye: mohamed.gueye88@gmail.com
-- Apolline Leboucher: apolline.leb@gmail.com
-- Beaudelaire Tsoungui Nzodoumkouo: beaudelaire@tutamail.com
+Asma Aimade: asmaaimade0@gmail.com - full stack for User story 3 (customer)
+- Zineb Bamouh: zineb.bamouh@gmail.com - full stack for User story 2 (customer)
+- Mohamed Gueye: mohamed.gueye88@gmail.com - full stack for User story 4 (customer/admin)
+- Apolline Leboucher: apolline.leb@gmail.com - full stack for User story 6 (admin/user)
+- Beaudelaire Tsoungui Nzodoumkouo: beaudelaire@tutamail.com - full stack for User story 1 (customer)
+- Kaoutar El Azzab: kaoutar.elazzab@gmail.com - full stack for User story 5 (all users)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
