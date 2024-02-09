@@ -138,15 +138,15 @@ npm i
 
 2. Install the backend dependecies
 
-Yet to be implemented
+   Yet to be implemented
 
 3. Run the backend and frontend
 
 - backend
-  Yet to be implemented
+  (Yet to be implemented)
 
 - frontend
-  Yet to be implemented
+  (Yet to be implemented)
   
 
 ### Extensions used
@@ -156,7 +156,7 @@ Work In Progress
 <!-- USAGE EXAMPLES -->
 ## Utilisation
 
-Work In Progress
+Documentation of the features offered by our application! (see the project wiki)![Status][s-todo]
 
 ## Team Members
 
@@ -165,8 +165,6 @@ Work In Progress
 - Mohamed Gueye: mohamed.gueye88@gmail.com
 - Apolline Leboucher
 - Beaudelaire Tsoungui Nzodoumkouo: beaudelaire@tutamail.com
-
-Documentation of the features offered by our application! (see the project wiki)![Status][s-todo]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -180,4 +178,3 @@ Documentation of the features offered by our application! (see the project wiki)
 [s-bug]: https://img.shields.io/static/v1?label=Statut&message=Bug&color=purple
 [s-frontend]: https://img.shields.io/static/v1?label=Front-end&message=90%&color=green
 [s-backend]: https://img.shields.io/static/v1?label=Back-end&message=40%&color=orange
-[screenshot]: images/screenshot.png
