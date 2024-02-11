@@ -5,9 +5,11 @@
     import RecentSearchItem from "$lib/components/Search/RecentSearchItem.svelte";
     import CarCard from "$lib/components/Card/CarCard.svelte";
     import CarCardWrapper from "$lib/components/Card/CarCardWrapper.svelte";
+    import Footer from "$lib/components/layout/Footer.svelte";
 </script>
 
 <Header/>
+
 <main class="md:px-10">
 
     <Browse/>
@@ -28,3 +30,5 @@
     </CarCardWrapper>
 
 </main>
+
+<Footer/>
