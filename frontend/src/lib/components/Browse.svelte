@@ -14,7 +14,7 @@
     ];
 </script>
 
-<div class="mt-5 sm:mt-10 sm:mx-10 sm:border border-gray-400 border-solid rounded-md p-5">
+<div class="mt-5 sm:mt-10 sm:mx-10 sm:border border-gray-400 border-solid rounded-3xl p-5">
 
     <form class="flex flex-col">
         <div class="grid grid-cols-6 gap-4 lg:grid-cols-4">
