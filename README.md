@@ -83,7 +83,16 @@ This application implements different services for users and renters. The user c
 
 #### Customer Service Representatives
 A customer service role is to:
-* 
+* Creates a reservation fur customer who didn't make one
+  ![Status][s-todo] ![Role][s-renter]
+* Confirms the already made reservation 
+  ![Status][s-todo] ![Role][s-renter]
+* Process and review the rental agreement review
+  ![Status][s-todo] ![Role][s-renter]
+* Process the payment 
+  ![Status][s-todo] ![Role][s-renter]
+* Confirms the return
+  ![Status][s-todo] ![Role][s-renter]
 
 #### Administrator
 An Administrator role is also implemented:
