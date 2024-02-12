@@ -32,7 +32,7 @@ transaction process.
 - Kaoutar El Azzab: kaoutar.elazzab@gmail.com - full stack for User story 5 (all users)
 
 ## Project Approach
-[Link to the project approach document](https://docs.google.com/document/d/1U6NiEDSAmT1NGRBFCFDgL9N2u6lD7lsj/edit)
+[Link to the project's approach document](https://docs.google.com/document/d/1U6NiEDSAmT1NGRBFCFDgL9N2u6lD7lsj/edit)
 
 ## List of functionnalities/services that the app offers
 
