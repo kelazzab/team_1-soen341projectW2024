@@ -34,7 +34,9 @@ transaction process.
 ## Project Approach
 [Link to the project approach document](https://docs.google.com/document/d/1U6NiEDSAmT1NGRBFCFDgL9N2u6lD7lsj/edit)
 
-#### Lists of services clients/renters
+## List of functionnalities/services that the app offers
+
+#### Clients/Renters
 
 This application implements different services for users and renters. The user can be a business or just a regular person looking to rent a vehicle(s):
 
@@ -109,7 +111,7 @@ An Administrator role is also implemented:
 * Option to set a renter account as a user account
   ![Status][s-todo] ![Role][s-admin]
 
-#### Security
+## Security Considerations
 The application relies on a robust structure to ensure security:
 * Secure authentication with login token
   ![Status][s-todo]
