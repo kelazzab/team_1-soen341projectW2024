@@ -3,12 +3,13 @@
 ## Summary
 
 * [About the project](#about-the-project)
+* [Team Members](#team-members)
 * [Technologies](#technologies)
 * [Installation](#installation)
 * [Prerequisite](#prerequisites)
 * [Running](#running)
 * [Utilisation](#utilisation)
-* [Team Members](#team-members)
+
 
 
 ## About the project
@@ -21,11 +22,22 @@ available for rent, complete with descriptions, photos, and detailed specificati
 it offers a range of services to both users and rental providers, enhancing the rental experience and simplifying the 
 transaction process.
 
-It implements different services for users and renters:
+## Team Members and roles
+
+- Asma Aimade: asmaaimade0@gmail.com - full stack for User story 3 (customer)
+- Zineb Bamouh: zineb.bamouh@gmail.com - full stack for User story 2 (customer)
+- Mohamed Gueye: mohamed.gueye88@gmail.com - full stack for User story 4 (customer/admin)
+- Apolline Leboucher: apolline.leb@gmail.com - full stack for User story 6 (admin/user)
+- Beaudelaire Tsoungui Nzodoumkouo: beaudelaire@tutamail.com - full stack for User story 1 (customer)
+- Kaoutar El Azzab: kaoutar.elazzab@gmail.com - full stack for User story 5 (all users)
+
+## Project Approach
+[Link to the project approach document](https://docs.google.com/document/d/1U6NiEDSAmT1NGRBFCFDgL9N2u6lD7lsj/edit)
 
 #### Lists of services clients/renters
 
-The user is most often a business looking to rent vehicles:
+This application implements different services for users and renters. The user can be a business or just a regular person looking to rent a vehicle(s):
+
 * Sign-up page
   ![Status][s-todo]
 * Login (not required to view the homepage)
@@ -69,6 +81,10 @@ The user is most often a business looking to rent vehicles:
 * Calculation of invoices for each client of the current month
   ![Status][s-todo] ![Role][s-renter]
 
+#### Customer Service Representatives
+A customer service role is to:
+* 
+
 #### Administrator
 An Administrator role is also implemented:
 * Administration panel
@@ -104,7 +120,6 @@ This web application uses certain technologies and frameworks:
 
 ### Back-end
 * [Nestjs](https://nestjs.com)
-
 
 <!-- Installation -->
 ## Installation
@@ -157,15 +172,6 @@ Work In Progress
 ## Utilisation
 
 Documentation of the features offered by our application! (see the project wiki)![Status][s-todo]
-
-## Team Members
-
-Asma Aimade: asmaaimade0@gmail.com - full stack for User story 3 (customer)
-- Zineb Bamouh: zineb.bamouh@gmail.com - full stack for User story 2 (customer)
-- Mohamed Gueye: mohamed.gueye88@gmail.com - full stack for User story 4 (customer/admin)
-- Apolline Leboucher: apolline.leb@gmail.com - full stack for User story 6 (admin/user)
-- Beaudelaire Tsoungui Nzodoumkouo: beaudelaire@tutamail.com - full stack for User story 1 (customer)
-- Kaoutar El Azzab: kaoutar.elazzab@gmail.com - full stack for User story 5 (all users)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
