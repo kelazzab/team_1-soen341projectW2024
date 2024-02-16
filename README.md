@@ -166,7 +166,7 @@ npm i
 ```
 npm run dev
 ```
-The frontend can then the access @  http://localhost:5173
+The frontend can then be access @  http://localhost:5173
 
 4. Install the backend dependecies
 
