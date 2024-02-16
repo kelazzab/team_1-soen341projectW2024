@@ -139,7 +139,7 @@ Here's how to set up the application in your development environment
 
 ### Prerequisites
 
-[NodeJs](https://nodejs.org/en/download)
+[Node](https://nodejs.org/en/download)
 
 After you install Node.js, verify NodeJs and NPM installation by writing the following command in terminal or command prompt.
 
@@ -162,17 +162,20 @@ cd frontend
 npm i
 ```
 
-2. Install the backend dependecies
+3. Run de frontend
+```
+npm run dev
+```
+The frontend can then the access @  http://localhost:5173
+
+4. Install the backend dependecies
 
    Yet to be implemented
 
-3. Run the backend and frontend
+5. Run the backend
 
-- backend
-  (Yet to be implemented)
+  Yet to be implemented
 
-- frontend
-  (Yet to be implemented)
   
 
 ### Extensions used
