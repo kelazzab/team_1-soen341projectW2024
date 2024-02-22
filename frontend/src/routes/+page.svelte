@@ -1,6 +1,7 @@
 
-<script>
-    import RecentUserWraper from "$/Users/apolline/Documents/GitHub/team_1-soen341projectW2024/frontend/src/components/RecentUserWraper.svelte";
+<script lang="ts">
+    import RecentUserWraper from "$lib/components/RecentUserWraper.svelte";
+    import RecentUser from "$lib/components/RecentUser.svelte";
 </script>
 
 <main class="md:px-10">
