@@ -11,7 +11,7 @@
 <div class="flex flex-col h-screen">
 
   <div class="w-full bg-blue-500 text-white p-4">
-    <h1 class="text-2xl font-semibold">Your Enterprise</h1>
+    <h1 class="text-2xl font-semibold">Rentify</h1>
   </div>
 
 
