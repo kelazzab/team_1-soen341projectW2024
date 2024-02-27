@@ -9,14 +9,14 @@
 </style>
 
 <div class="flex flex-col h-screen">
-  <!-- Top Bar -->
+
   <div class="w-full bg-blue-500 text-white p-4">
     <h1 class="text-2xl font-semibold">Your Enterprise</h1>
   </div>
 
 
 <div class="flex h-screen">
-  <!-- Vertical Taskbar -->
+
   <nav class="w-1/6 bg-gray-800 text-white">
     <ul class="py-4">
       <li>
@@ -37,9 +37,9 @@
     </ul>
   </nav>
 
-  <!-- Main Content Area -->
+
   <div class="flex flex-col w-5/6">
-    <!-- Horizontal Taskbar -->
+
     <div class="flex bg-gray-700 p-4">
       <div class="flex-1">
         <button class="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600" on:click={() => navigate('/create-reservation')}>
@@ -55,14 +55,14 @@
       </div>
     </div>
 
-    <!-- Title -->
+
     <div class="p-4 bg-blue-500">
       <h1 class="text-2xl font-semibold text-white">Managing Reservations</h1>
     </div>
 
-    <!-- Placeholder for content -->
+
     <div class="flex-1 p-4">
-      <!-- Your content goes here -->
+
     </div>
   </div>
 
